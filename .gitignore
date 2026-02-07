@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+dist/
+*.egg-info/
+.env
+.env.local
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Secrets
+sa-key.json
+*.json.key
+
+# Temp
+tmp/
+
+# IDE
+.idea/
+.vscode/
