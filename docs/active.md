@@ -12,7 +12,6 @@
 
 ## Pending Review
 
-- **[TBD] Facebook Graph API access** — Need to set up Facebook App, get page access token with events_manage permission. May require app review.
 - **[TBD] Stripe API key** — Get restricted API key from Level 11 Digital Stripe account, store in GSM as `stripe-api-key`.
 
 ## Scheduled Checks
@@ -21,6 +20,7 @@
 
 ## Completed (Recent)
 
+- ~~[2026-02-08] Facebook Graph API access~~ — Facebook App "Calpe Digital" created (ID: `1670527017455271`). Never-expiring page token with 16 permissions including `pages_manage_posts`. Full read+write capability verified (draft post created/deleted). All tokens in GSM (`facebook-page-token`, `facebook-user-token`, `facebook-app-secret`). Historical posts archived in `docs/reference/facebook-posts.md`. Event 2 copy saved in `docs/reference/event-2-cowork-feb12.md`.
 - ~~[2026-02-07] Project scaffold~~ — GCP project created (`calpe-digital`, Moriarty.co billing), GitHub repo (`Peter-Moriarty/calpe-digital`), Vertex AI + Firestore + Cloud Run + Secret Manager + Sheets APIs enabled. CLAUDE.md, docs, reference materials imported from Google Shared Drive. Parent orchestrator updated (routing, registry, cross-project).
 
 ---

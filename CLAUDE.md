@@ -1,4 +1,4 @@
-# Calp Digital — Community Event Automation
+# Calpe Digital — Community Event Automation
 
 ## Purpose
 
