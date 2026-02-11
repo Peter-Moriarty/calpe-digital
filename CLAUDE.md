@@ -132,8 +132,8 @@ ANTHROPIC_API_KEY=            # For Claude fallback/QA tasks
 
 ## Reference Docs
 
-- `docs/active.md` — current tasks and status
-- `docs/decisions.md` — append-only decision log
+- `memory/calpe-digital-active.md` — current tasks and status
+- `memory/calpe-digital-decisions.md` — append-only decision log
 - `docs/reference/brand-strategy.md` — full brand strategy document
 - `docs/reference/event1-copy.md` — Event 1 promotional copy
 - `docs/reference/event1-results.md` — Event 1 registrations and Stripe data

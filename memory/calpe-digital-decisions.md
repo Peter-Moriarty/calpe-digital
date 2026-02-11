@@ -1,4 +1,4 @@
-# Decision Log
+# Decision Log — Calpe
 
 > Append-only record of architectural and strategic decisions.
 > Captures the "why" behind choices for future reference.

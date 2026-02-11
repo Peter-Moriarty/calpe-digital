@@ -1,4 +1,4 @@
-# Active Tasks & Reminders
+# Active Tasks — Calpe
 
 > This file is the source of truth for what's in-flight, what needs checking, and what's coming up.
 > Claude reads this at the start of every session and surfaces anything due or overdue.
