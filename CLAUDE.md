@@ -132,6 +132,7 @@ ANTHROPIC_API_KEY=            # For Claude fallback/QA tasks
 
 ## Reference Docs
 
+- `memory/calpe-digital-memory.md` — project-specific context and learnings
 - `memory/calpe-digital-active.md` — current tasks and status
 - `memory/calpe-digital-decisions.md` — append-only decision log
 - `docs/reference/brand-strategy.md` — full brand strategy document
